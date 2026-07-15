@@ -1,0 +1,705 @@
+{
+ "meta": {
+  "match_id": 3869486,
+  "competition": "FIFA World Cup",
+  "season": "2022",
+  "stage": "Quarter-finals",
+  "date": "2022-12-10",
+  "duration_minutes": 101,
+  "home_team": {
+   "name": "Morocco",
+   "color": "#C8102E"
+  },
+  "away_team": {
+   "name": "Portugal",
+   "color": "#FFD200"
+  },
+  "final_score": {
+   "home": 1,
+   "away": 0
+  },
+  "penalties": null,
+  "periods": [
+   {
+    "period": 1,
+    "start": 0.0,
+    "end": 47.63
+   },
+   {
+    "period": 2,
+    "start": 47.63,
+    "end": 100.67
+   }
+  ]
+ },
+ "minutes": [
+  {
+   "m": 0,
+   "momentum": 0.0,
+   "intensity": 0.0
+  },
+  {
+   "m": 1,
+   "momentum": 0.0,
+   "intensity": 0.0
+  },
+  {
+   "m": 2,
+   "momentum": 0.0,
+   "intensity": 0.0
+  },
+  {
+   "m": 3,
+   "momentum": -0.2586,
+   "intensity": 0.1544
+  },
+  {
+   "m": 4,
+   "momentum": -0.207,
+   "intensity": 0.1225
+  },
+  {
+   "m": 5,
+   "momentum": 0.1665,
+   "intensity": 0.2925
+  },
+  {
+   "m": 6,
+   "momentum": 0.1326,
+   "intensity": 0.2322
+  },
+  {
+   "m": 7,
+   "momentum": 0.1055,
+   "intensity": 0.1843
+  },
+  {
+   "m": 8,
+   "momentum": 0.0251,
+   "intensity": 0.1806
+  },
+  {
+   "m": 9,
+   "momentum": 0.0199,
+   "intensity": 0.1434
+  },
+  {
+   "m": 10,
+   "momentum": 0.0158,
+   "intensity": 0.1138
+  },
+  {
+   "m": 11,
+   "momentum": 0.0125,
+   "intensity": 0.0903
+  },
+  {
+   "m": 12,
+   "momentum": -0.2047,
+   "intensity": 0.1986
+  },
+  {
+   "m": 13,
+   "momentum": -0.1634,
+   "intensity": 0.1577
+  },
+  {
+   "m": 14,
+   "momentum": -0.1301,
+   "intensity": 0.1251
+  },
+  {
+   "m": 15,
+   "momentum": -0.1035,
+   "intensity": 0.0993
+  },
+  {
+   "m": 16,
+   "momentum": -0.1977,
+   "intensity": 0.1476
+  },
+  {
+   "m": 17,
+   "momentum": -0.0068,
+   "intensity": 0.2059
+  },
+  {
+   "m": 18,
+   "momentum": -0.0054,
+   "intensity": 0.1634
+  },
+  {
+   "m": 19,
+   "momentum": -0.0043,
+   "intensity": 0.1297
+  },
+  {
+   "m": 20,
+   "momentum": -0.0034,
+   "intensity": 0.103
+  },
+  {
+   "m": 21,
+   "momentum": 0.1147,
+   "intensity": 0.1505
+  },
+  {
+   "m": 22,
+   "momentum": 0.0912,
+   "intensity": 0.1194
+  },
+  {
+   "m": 23,
+   "momentum": 0.0724,
+   "intensity": 0.0948
+  },
+  {
+   "m": 24,
+   "momentum": 0.0575,
+   "intensity": 0.0752
+  },
+  {
+   "m": 25,
+   "momentum": 0.2709,
+   "intensity": 0.1951
+  },
+  {
+   "m": 26,
+   "momentum": 0.217,
+   "intensity": 0.1549
+  },
+  {
+   "m": 27,
+   "momentum": 0.1733,
+   "intensity": 0.1229
+  },
+  {
+   "m": 28,
+   "momentum": 0.138,
+   "intensity": 0.0976
+  },
+  {
+   "m": 29,
+   "momentum": 0.1098,
+   "intensity": 0.0774
+  },
+  {
+   "m": 30,
+   "momentum": -0.0756,
+   "intensity": 0.1567
+  },
+  {
+   "m": 31,
+   "momentum": -0.0601,
+   "intensity": 0.1244
+  },
+  {
+   "m": 32,
+   "momentum": -0.0477,
+   "intensity": 0.0987
+  },
+  {
+   "m": 33,
+   "momentum": -0.0379,
+   "intensity": 0.0784
+  },
+  {
+   "m": 34,
+   "momentum": 0.3626,
+   "intensity": 0.3013
+  },
+  {
+   "m": 35,
+   "momentum": 0.2927,
+   "intensity": 0.2392
+  },
+  {
+   "m": 36,
+   "momentum": 0.2349,
+   "intensity": 0.1898
+  },
+  {
+   "m": 37,
+   "momentum": 0.1877,
+   "intensity": 0.1507
+  },
+  {
+   "m": 38,
+   "momentum": -0.091,
+   "intensity": 0.2607
+  },
+  {
+   "m": 39,
+   "momentum": -0.0723,
+   "intensity": 0.207
+  },
+  {
+   "m": 40,
+   "momentum": -0.0574,
+   "intensity": 0.1643
+  },
+  {
+   "m": 41,
+   "momentum": 0.2718,
+   "intensity": 0.3196
+  },
+  {
+   "m": 42,
+   "momentum": 0.2177,
+   "intensity": 0.2537
+  },
+  {
+   "m": 43,
+   "momentum": 0.1738,
+   "intensity": 0.2013
+  },
+  {
+   "m": 44,
+   "momentum": -0.0119,
+   "intensity": 0.2481
+  },
+  {
+   "m": 45,
+   "momentum": -0.0095,
+   "intensity": 0.1969
+  },
+  {
+   "m": 46,
+   "momentum": 0.1286,
+   "intensity": 0.3736
+  },
+  {
+   "m": 47,
+   "momentum": 0.1023,
+   "intensity": 0.2966
+  },
+  {
+   "m": 48,
+   "momentum": 0.0813,
+   "intensity": 0.2354
+  },
+  {
+   "m": 49,
+   "momentum": 0.0646,
+   "intensity": 0.1868
+  },
+  {
+   "m": 50,
+   "momentum": 0.0513,
+   "intensity": 0.1483
+  },
+  {
+   "m": 51,
+   "momentum": 0.0407,
+   "intensity": 0.1177
+  },
+  {
+   "m": 52,
+   "momentum": 0.0323,
+   "intensity": 0.0934
+  },
+  {
+   "m": 53,
+   "momentum": 0.0257,
+   "intensity": 0.0741
+  },
+  {
+   "m": 54,
+   "momentum": 0.0204,
+   "intensity": 0.0588
+  },
+  {
+   "m": 55,
+   "momentum": 0.0162,
+   "intensity": 0.0467
+  },
+  {
+   "m": 56,
+   "momentum": -0.0461,
+   "intensity": 0.0715
+  },
+  {
+   "m": 57,
+   "momentum": 0.1294,
+   "intensity": 0.154
+  },
+  {
+   "m": 58,
+   "momentum": 0.1029,
+   "intensity": 0.1222
+  },
+  {
+   "m": 59,
+   "momentum": 0.0818,
+   "intensity": 0.097
+  },
+  {
+   "m": 60,
+   "momentum": -0.2009,
+   "intensity": 0.2338
+  },
+  {
+   "m": 61,
+   "momentum": -0.2725,
+   "intensity": 0.2543
+  },
+  {
+   "m": 62,
+   "momentum": -0.417,
+   "intensity": 0.3314
+  },
+  {
+   "m": 63,
+   "momentum": -0.3385,
+   "intensity": 0.2631
+  },
+  {
+   "m": 64,
+   "momentum": -0.2726,
+   "intensity": 0.2088
+  },
+  {
+   "m": 65,
+   "momentum": -0.3826,
+   "intensity": 0.2714
+  },
+  {
+   "m": 66,
+   "momentum": -0.3095,
+   "intensity": 0.2154
+  },
+  {
+   "m": 67,
+   "momentum": -0.2487,
+   "intensity": 0.171
+  },
+  {
+   "m": 68,
+   "momentum": -0.1989,
+   "intensity": 0.1357
+  },
+  {
+   "m": 69,
+   "momentum": -0.1586,
+   "intensity": 0.1077
+  },
+  {
+   "m": 70,
+   "momentum": -0.1263,
+   "intensity": 0.0855
+  },
+  {
+   "m": 71,
+   "momentum": -0.1004,
+   "intensity": 0.0678
+  },
+  {
+   "m": 72,
+   "momentum": -0.0798,
+   "intensity": 0.0538
+  },
+  {
+   "m": 73,
+   "momentum": -0.3223,
+   "intensity": 0.2007
+  },
+  {
+   "m": 74,
+   "momentum": -0.2592,
+   "intensity": 0.1593
+  },
+  {
+   "m": 75,
+   "momentum": -0.2631,
+   "intensity": 0.1608
+  },
+  {
+   "m": 76,
+   "momentum": -0.2663,
+   "intensity": 0.162
+  },
+  {
+   "m": 77,
+   "momentum": -0.1563,
+   "intensity": 0.2317
+  },
+  {
+   "m": 78,
+   "momentum": -0.1244,
+   "intensity": 0.1839
+  },
+  {
+   "m": 79,
+   "momentum": -0.099,
+   "intensity": 0.146
+  },
+  {
+   "m": 80,
+   "momentum": -0.0786,
+   "intensity": 0.1159
+  },
+  {
+   "m": 81,
+   "momentum": -0.1209,
+   "intensity": 0.1263
+  },
+  {
+   "m": 82,
+   "momentum": -0.1541,
+   "intensity": 0.1347
+  },
+  {
+   "m": 83,
+   "momentum": -0.1227,
+   "intensity": 0.1069
+  },
+  {
+   "m": 84,
+   "momentum": -0.4115,
+   "intensity": 0.2829
+  },
+  {
+   "m": 85,
+   "momentum": -0.3338,
+   "intensity": 0.2245
+  },
+  {
+   "m": 86,
+   "momentum": -0.2688,
+   "intensity": 0.1782
+  },
+  {
+   "m": 87,
+   "momentum": -0.2153,
+   "intensity": 0.1414
+  },
+  {
+   "m": 88,
+   "momentum": -0.1718,
+   "intensity": 0.1123
+  },
+  {
+   "m": 89,
+   "momentum": -0.1369,
+   "intensity": 0.0891
+  },
+  {
+   "m": 90,
+   "momentum": -0.1089,
+   "intensity": 0.0707
+  },
+  {
+   "m": 91,
+   "momentum": -0.0866,
+   "intensity": 0.0561
+  },
+  {
+   "m": 92,
+   "momentum": -0.0688,
+   "intensity": 0.0445
+  },
+  {
+   "m": 93,
+   "momentum": -0.2314,
+   "intensity": 0.1409
+  },
+  {
+   "m": 94,
+   "momentum": -0.1849,
+   "intensity": 0.1118
+  },
+  {
+   "m": 95,
+   "momentum": -0.1474,
+   "intensity": 0.0888
+  },
+  {
+   "m": 96,
+   "momentum": -0.1749,
+   "intensity": 0.1048
+  },
+  {
+   "m": 97,
+   "momentum": 0.2332,
+   "intensity": 0.3036
+  },
+  {
+   "m": 98,
+   "momentum": 0.1864,
+   "intensity": 0.241
+  },
+  {
+   "m": 99,
+   "momentum": -0.1436,
+   "intensity": 0.3629
+  },
+  {
+   "m": 100,
+   "momentum": -0.1143,
+   "intensity": 0.2881
+  }
+ ],
+ "events": {
+  "goals": [
+   {
+    "minute": 41,
+    "second": 36,
+    "continuous_minute": 41.6,
+    "clock_label": "41'",
+    "side": "home",
+    "player": "Youssef En-Nesyri",
+    "method": "Open Play",
+    "period": 1,
+    "score_after": {
+     "home": 1,
+     "away": 0
+    }
+   }
+  ],
+  "cards": [
+   {
+    "minute": 69,
+    "second": 40,
+    "continuous_minute": 72.3,
+    "clock_label": "69'",
+    "side": "home",
+    "player": "Achraf Dari",
+    "card": "Yellow Card",
+    "period": 2
+   },
+   {
+    "minute": 86,
+    "second": 30,
+    "continuous_minute": 89.133,
+    "clock_label": "86'",
+    "side": "away",
+    "player": "Vitor Machado Ferreira",
+    "card": "Yellow Card",
+    "period": 2
+   },
+   {
+    "minute": 90,
+    "second": 51,
+    "continuous_minute": 93.483,
+    "clock_label": "90'",
+    "side": "home",
+    "player": "Walid Cheddira",
+    "card": "Yellow Card",
+    "period": 2
+   },
+   {
+    "minute": 92,
+    "second": 9,
+    "continuous_minute": 94.783,
+    "clock_label": "90+2'",
+    "side": "home",
+    "player": "Walid Cheddira",
+    "card": "Second Yellow",
+    "period": 2
+   }
+  ],
+  "subs": [
+   {
+    "minute": 50,
+    "second": 43,
+    "continuous_minute": 53.35,
+    "clock_label": "50'",
+    "side": "away",
+    "player_off": "Raphaël Adelino José Guerreiro",
+    "player_on": "João Pedro Cavaco Cancelo",
+    "period": 2
+   },
+   {
+    "minute": 50,
+    "second": 47,
+    "continuous_minute": 53.417,
+    "clock_label": "50'",
+    "side": "away",
+    "player_off": "Rúben Diogo Da Silva Neves",
+    "player_on": "Cristiano Ronaldo dos Santos Aveiro",
+    "period": 2
+   },
+   {
+    "minute": 56,
+    "second": 57,
+    "continuous_minute": 59.583,
+    "clock_label": "56'",
+    "side": "home",
+    "player_off": "Romain Saïss",
+    "player_on": "Achraf Dari",
+    "period": 2
+   },
+   {
+    "minute": 63,
+    "second": 46,
+    "continuous_minute": 66.4,
+    "clock_label": "63'",
+    "side": "home",
+    "player_off": "Selim Amallah",
+    "player_on": "Walid Cheddira",
+    "period": 2
+   },
+   {
+    "minute": 64,
+    "second": 0,
+    "continuous_minute": 66.633,
+    "clock_label": "64'",
+    "side": "home",
+    "player_off": "Youssef En-Nesyri",
+    "player_on": "Badr Banoun",
+    "period": 2
+   },
+   {
+    "minute": 68,
+    "second": 21,
+    "continuous_minute": 70.983,
+    "clock_label": "68'",
+    "side": "away",
+    "player_off": "Gonçalo Matias Ramos",
+    "player_on": "Rafael Alexandre Conceição Leão",
+    "period": 2
+   },
+   {
+    "minute": 68,
+    "second": 29,
+    "continuous_minute": 71.117,
+    "clock_label": "68'",
+    "side": "away",
+    "player_off": "Otávio Edmilson da Silva Monteiro",
+    "player_on": "Vitor Machado Ferreira",
+    "period": 2
+   },
+   {
+    "minute": 78,
+    "second": 40,
+    "continuous_minute": 81.3,
+    "clock_label": "78'",
+    "side": "away",
+    "player_off": "José Diogo Dalot Teixeira",
+    "player_on": "Ricardo Jorge Luz Horta",
+    "period": 2
+   },
+   {
+    "minute": 80,
+    "second": 35,
+    "continuous_minute": 83.217,
+    "clock_label": "80'",
+    "side": "home",
+    "player_off": "Hakim Ziyech",
+    "player_on": "Zakaria Aboukhlal",
+    "period": 2
+   },
+   {
+    "minute": 80,
+    "second": 52,
+    "continuous_minute": 83.5,
+    "clock_label": "80'",
+    "side": "home",
+    "player_off": "Sofiane Boufal",
+    "player_on": "Yahya Jabrane",
+    "period": 2
+   }
+  ],
+  "shootout": []
+ }
+}
